@@ -29,4 +29,4 @@ Considerations:
 * * * 
 ## Delivery
 
-Please create a git patch (https://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git/) and email your completed test to me.
+Please create a git patch (https://devconnected.com/how-to-create-and-apply-git-patch-files/) and email your completed test to me.
